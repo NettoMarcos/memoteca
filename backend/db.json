@@ -1,0 +1,22 @@
+{
+    "pensamentos": [
+        {
+            "id": 1,
+            "conteudo": "Que bom que vc veio",
+            "autoria": "Marcos",
+            "modelo": "modelo1"
+        },
+        {
+            "id": 2,
+            "conteudo": "Ta pegando fogo bixo!",
+            "autoria": "Faustão",
+            "modelo": "modelo2"
+        },
+        {
+            "id":3,
+            "conteudo": "maah quem quer dinheiro?",
+            "autoria": "Senior Abravanel",
+            "modelo": "modelo3"
+        }
+    ]
+}
